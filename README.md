@@ -1,4 +1,4 @@
-# ATM-Simulator
+ATM-Simulator
 
 The Bank Manager Website is a Java-based web application designed to facilitate efficient management of banking operations. perform various administrative tasks, such as managing customer accounts, handling transactions, and generating financial reports.
 
